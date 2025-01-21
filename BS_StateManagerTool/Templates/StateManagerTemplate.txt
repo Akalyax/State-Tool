@@ -1,8 +1,0 @@
-using StateSystem;
-
-public class {{StateManagerName}} : StateManager
-{
-    {{InitialStateSetup}}
-
-    {{Transitions}}
-}
