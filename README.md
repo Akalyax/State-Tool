@@ -32,8 +32,3 @@ You can change the template:
 -
 You have acces to the folder "Templates" where you can modify the basic Templates for your specific need.
 
-
-----
-DISCLAIMER: 
--
-Currently, when you delete a phase, it will not be remove from the manager, it's in my To Do List
