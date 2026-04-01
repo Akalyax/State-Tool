@@ -21,7 +21,7 @@ If a problem arises the confirmation window will inform you where the error is.
 Here is the result of the generation with the templates:
 
 ![Unity_kKPV147Fhp](https://github.com/user-attachments/assets/fe46da07-6790-4f4e-a027-b94fdfccb2b3)
-![rider64_Xo2JFPd4KX](https://github.com/user-attachments/assets/446798ab-ec9e-4dd4-a259-b87f0c853db0)
+
 
 ---
 You can add a new script directly to the main Manager with this window (automatic add): 
